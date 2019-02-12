@@ -1,0 +1,6 @@
+﻿Name: Dell LCD 23953ju5, Code: 23953ju5, Manufacturer: Dell, Price: 193.70€, Weight: 7.5kg, Resolution: 1920x1080, AspectRatio: 16:9, Tip monitorja: LCD
+
+Name: Dell LCD 23953ju5, Code: 23953ju5, Manufacturer: Dell, Price: 193.70€, Weight: 7.5kg, Resolution: 1920x1080, AspectRatio: 16:9, Tip monitorja: LCD
+
+Name: Dell LCD 5234ki34, Code: 5234ki34, Manufacturer: Dell, Price: 123.70$, Weight: 7lbs, Resolution: 1920x1080, AspectRatio: 16:10, Tip monitorja: LED
+

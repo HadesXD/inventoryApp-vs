@@ -1,0 +1,2 @@
+﻿Name: Alienware HighEnd pc 23563io4, Code: 23563io4, Manufacturer: Alienware, Price: 700$, Weight: 2kg, Number of Cores: 8, Ram: 16GB, Disk Size: 128GB
+

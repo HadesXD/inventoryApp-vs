@@ -1,0 +1,2 @@
+﻿Name: Windows 7, Code: 5325543, Manufacturer: Microsoft , Price: 9.99€, Size: 302, License: Proprietary commercial software, Version: 6.24.4
+

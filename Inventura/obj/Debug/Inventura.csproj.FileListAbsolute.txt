@@ -1,0 +1,63 @@
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\bin\Debug\Inventura.exe.config
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\bin\Debug\Inventura.exe
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\bin\Debug\Inventura.pdb
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\bin\Debug\EntityFramework.dll
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\bin\Debug\Items.dll
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\bin\Debug\System.Data.SQLite.dll
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\bin\Debug\Items.pdb
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\bin\Debug\Items.dll.config
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\bin\Debug\EntityFramework.xml
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\bin\Debug\System.Data.SQLite.xml
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\bin\Debug\System.Data.SQLite.dll.config
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\obj\Debug\Inventura.csprojResolveAssemblyReference.cache
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\obj\Debug\Inventura.Add_Monitor.resources
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\obj\Debug\Inventura.MainMenu.resources
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\obj\Debug\Inventura.Properties.Resources.resources
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\obj\Debug\Inventura.csproj.GenerateResource.Cache
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\obj\Debug\Inventura.csproj.CoreCompileInputs.cache
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\obj\Debug\Inventura.exe
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\obj\Debug\Inventura.pdb
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\obj\Debug\Inventura.Add_Computer.resources
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\obj\Debug\Inventura.Add_Program.resources
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Inventura\obj\Debug\Inventura.All_Computers.resources
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Inventura\Inventura\obj\Debug\Inventura.All_Monitors.resources
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Inventura\Inventura\obj\Debug\Inventura.All_Programs.resources
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Inventura\Inventura\obj\Debug\Inventura.Edit_Monitors.resources
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Inventura\Inventura\obj\Debug\Inventura.Edit_Computers.resources
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Inventura\Inventura\obj\Debug\Inventura.Edit_Programs.resources
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\bin\Debug\Inventura.exe.config
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\bin\Debug\Inventura.exe
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\bin\Debug\Inventura.pdb
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\bin\Debug\EntityFramework.dll
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\bin\Debug\Items.dll
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\bin\Debug\System.Data.SQLite.dll
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\bin\Debug\Items.pdb
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\bin\Debug\Items.dll.config
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\bin\Debug\EntityFramework.xml
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\bin\Debug\System.Data.SQLite.xml
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\obj\Debug\Inventura.csprojAssemblyReference.cache
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\obj\Debug\Inventura.Add_Computer.resources
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\obj\Debug\Inventura.Add_Monitor.resources
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\obj\Debug\Inventura.Add_Program.resources
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\obj\Debug\Inventura.All_Computers.resources
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\obj\Debug\Inventura.All_Monitors.resources
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\obj\Debug\Inventura.All_Programs.resources
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\obj\Debug\Inventura.Edit_Computers.resources
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\obj\Debug\Inventura.Edit_Monitors.resources
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\obj\Debug\Inventura.Edit_Programs.resources
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\obj\Debug\Inventura.MainMenu.resources
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\obj\Debug\Inventura.Properties.Resources.resources
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\obj\Debug\Inventura.csproj.GenerateResource.cache
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\obj\Debug\Inventura.csproj.CoreCompileInputs.cache
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\obj\Debug\Inventura.csproj.CopyComplete
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\obj\Debug\Inventura.exe
+C:\Users\strop\Downloads\Projects\Inventura\Inventura\obj\Debug\Inventura.pdb

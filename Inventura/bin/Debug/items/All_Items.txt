@@ -1,0 +1,10 @@
+﻿MONITOR: Name: Dell LCD 23953ju5, Code: 23953ju5, Manufacturer: Dell, Price: 193.70€, Weight: 7.5kg, Resolution: 1920x1080, AspectRatio: 16:9, Tip monitorja: LCD
+
+MONITOR: Name: Dell LCD 23953ju5, Code: 23953ju5, Manufacturer: Dell, Price: 193.70€, Weight: 7.5kg, Resolution: 1920x1080, AspectRatio: 16:9, Tip monitorja: LCD
+
+MONITOR: Name: Dell LCD 5234ki34, Code: 5234ki34, Manufacturer: Dell, Price: 123.70$, Weight: 7lbs, Resolution: 1920x1080, AspectRatio: 16:10, Tip monitorja: LED
+
+COMPUTER: Name: Alienware HighEnd pc 23563io4, Code: 23563io4, Manufacturer: Alienware, Price: 700$, Weight: 2kg, Number of Cores: 8, Ram: 16GB, Disk Size: 128GB
+
+PROGRAM: Name: Windows 7, Code: 5325543, Manufacturer: Microsoft , Price: 9.99€, Size: 302, License: Proprietary commercial software, Version: 6.24.4
+
