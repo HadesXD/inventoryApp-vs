@@ -3,7 +3,7 @@ This is a Windows Forms App made in VS, it helps you with inventory management o
 You are able to add, edit and remove any of the items within the list.
 
 <b>Used:</b>
-- language: C#
+- language: C#, SQL (SQLite)
 - framework: .NET
 - IDE: Visual Studio 2017
 
