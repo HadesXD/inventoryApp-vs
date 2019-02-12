@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventura", "Inventura\Inventura.csproj", "{5F50AE0F-63E2-4462-8D35-8F656790E4B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Items", "Items\Items.csproj", "{F3B1D787-D843-4780-9E65-B9452A76459E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F50AE0F-63E2-4462-8D35-8F656790E4B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F50AE0F-63E2-4462-8D35-8F656790E4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F50AE0F-63E2-4462-8D35-8F656790E4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F50AE0F-63E2-4462-8D35-8F656790E4B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B1D787-D843-4780-9E65-B9452A76459E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B1D787-D843-4780-9E65-B9452A76459E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B1D787-D843-4780-9E65-B9452A76459E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B1D787-D843-4780-9E65-B9452A76459E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACF4319B-3A6D-462A-8A5A-0D4CC040DB73}
+	EndGlobalSection
+EndGlobal
