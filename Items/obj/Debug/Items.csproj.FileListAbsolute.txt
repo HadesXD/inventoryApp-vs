@@ -1,0 +1,33 @@
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Items\bin\Debug\Items.dll.config
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Items\bin\Debug\Items.dll
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Items\bin\Debug\Items.pdb
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Items\bin\Debug\EntityFramework.dll
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Items\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Items\bin\Debug\System.Data.SQLite.dll
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Items\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Items\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Items\bin\Debug\EntityFramework.xml
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Items\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Items\bin\Debug\System.Data.SQLite.xml
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Items\bin\Debug\System.Data.SQLite.dll.config
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Items\obj\Debug\Items.csprojResolveAssemblyReference.cache
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Items\obj\Debug\Items.csproj.CoreCompileInputs.cache
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Items\obj\Debug\Items.dll
+c:\users\theph\onedrive\dokumenti\visual studio 2017\Projects\Inventura\Items\obj\Debug\Items.pdb
+C:\Users\strop\Downloads\Projects\Inventura\Items\bin\Debug\Items.dll.config
+C:\Users\strop\Downloads\Projects\Inventura\Items\bin\Debug\Items.dll
+C:\Users\strop\Downloads\Projects\Inventura\Items\bin\Debug\Items.pdb
+C:\Users\strop\Downloads\Projects\Inventura\Items\bin\Debug\EntityFramework.dll
+C:\Users\strop\Downloads\Projects\Inventura\Items\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\strop\Downloads\Projects\Inventura\Items\bin\Debug\System.Data.SQLite.dll
+C:\Users\strop\Downloads\Projects\Inventura\Items\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\strop\Downloads\Projects\Inventura\Items\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\strop\Downloads\Projects\Inventura\Items\bin\Debug\EntityFramework.xml
+C:\Users\strop\Downloads\Projects\Inventura\Items\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\strop\Downloads\Projects\Inventura\Items\bin\Debug\System.Data.SQLite.xml
+C:\Users\strop\Downloads\Projects\Inventura\Items\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\strop\Downloads\Projects\Inventura\Items\obj\Debug\Items.csprojAssemblyReference.cache
+C:\Users\strop\Downloads\Projects\Inventura\Items\obj\Debug\Items.csproj.CoreCompileInputs.cache
+C:\Users\strop\Downloads\Projects\Inventura\Items\obj\Debug\Items.csproj.CopyComplete
+C:\Users\strop\Downloads\Projects\Inventura\Items\obj\Debug\Items.dll
+C:\Users\strop\Downloads\Projects\Inventura\Items\obj\Debug\Items.pdb
