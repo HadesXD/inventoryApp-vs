@@ -1,4 +1,4 @@
-# Inventory App
+# Inventory App (Version 1)
 This is a WinForms App that was made in 2016 for my High School. It helps you with inventory management of prebuilt pcs, monitors and software. You are able to add, edit and remove any of the items within the list. <br/>
 This project is old and I wish to recreate it!
 
